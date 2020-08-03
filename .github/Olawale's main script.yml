@@ -1,6 +1,5 @@
 
 #include<iostream>
-using namespace std;
             int main ()
                      {
             cout << "NAME- Ojo-Rowland Olawale";
